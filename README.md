@@ -42,28 +42,10 @@ This project demonstrates how machine learning can be used to detect fake news u
 
 ---
 
-## 📁 Dataset
-
-> *(Add the dataset source or upload it if needed)*  
-This notebook uses a labeled dataset of fake and real news articles. If not included, download it from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) or similar sources.
-
----
-
 ## 🧠 Model Overview
 
 - Vectorization: TF-IDF
 - Classifier: Logistic Regression / Passive Aggressive Classifier *(based on your code)*
 - Train/Test Split: 80/20
 
----
-
-## 🤝 Contributing
-
-Feel free to fork this project, raise issues, or suggest improvements!
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
